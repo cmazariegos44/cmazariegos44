@@ -34,6 +34,11 @@
   </a>
 </p>
 
+</div>
+<div align="center">
+ <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&show_icons=true&hide_title=true&hide_border=true&theme=light" /><img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=light" />
+</div>
+
 ---
 
 <h3 align="center">Let's Connect! </h3>
