@@ -49,6 +49,6 @@
 
 <h3 align="center">Let's Connect! </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/claudia-mazariegos/" title="claudiamazariegos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudiamazariegos" height="30" width="40" /></a>
-  <a href="https://twitter.com/cmazariegos44" title="@cmazariegos44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cmazariegos44" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/claudia-mazariegos/" title="claudiamazariegos" target="blank"><img align="center" src="https://res.cloudinary.com/techhire/image/upload/v1620430292/Untitled_design-8_ibajpn.svg" alt="claudiamazariegos" height="30" width="40" /></a>
+  <a href="https://twitter.com/cmazariegos44" title="@cmazariegos44" target="blank"><img align="center" src="https://res.cloudinary.com/techhire/image/upload/v1620430292/Untitled_design-7_esfghc.svg" alt="cmazariegos44" height="30" width="40" /></a>
 </p>
