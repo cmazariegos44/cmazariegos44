@@ -19,7 +19,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/javascript-logo.png" alt="JAVASCRIPT" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="img/bootstrap-logo.png" alt="BOOTSTRAP" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="img/react-logo.png" alt="JAVA" width="48" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620428822/Untitled_design-3_itflse.svg" alt="JAVA" width="48" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620428635/Untitled_design-5_qga9vm.svg" alt="postgresSQL" width="50" height="40"/> </a>
 </p>
 
