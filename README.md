@@ -17,7 +17,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620429746/8_mbetvw.svg" alt="HTML5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620429748/3_h1hp1m.svg" alt="CSS3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620429746/7_itmvji.svg" alt="JAVASCRIPT" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en//" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620429745/14_loybyu.svg" alt="node" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620429747/5_l61syb.svg" alt="BOOTSTRAP" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620429151/Untitled_design-6_kadlzd.svg" alt="JAVA" width="48" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://res.cloudinary.com/techhire/image/upload/v1620428635/Untitled_design-5_qga9vm.svg" alt="postgresSQL" width="50" height="40"/> </a>
