@@ -30,14 +30,16 @@
     <img width=330px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&layout=compact&theme=nightowl">
   </a>
   <a href="https://github.com/cmazariegos44/github-readme-stats" title="Go to Source">
-    <img width=330px align="center" src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&show_icons=true&theme=nightowl">
+    <img width=330px align="center" src="https://github-readme-stats.vercel.app/api?username=cmazariegos44">
   </a>
 </p>
 
 </div>
 <div align="center">
- <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&show_icons=true&hide_title=true&hide_border=true&theme=light" /><img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=light" />
+ <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&show_icons=true&hide_title=true&hide_border=true&theme=light" /><img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44" />
 </div>
+
+
 
 ---
 
