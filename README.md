@@ -20,7 +20,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="img/bootstrap-logo.png" alt="BOOTSTRAP" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="img/react-logo.png" alt="JAVA" width="48" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="img/mysql-logo.png" alt="MYSQL" width="50" height="40"/> </a>
+<!--   <a href="https://www.mysql.com/" target="_blank"> <img src="img/mysql-logo.png" alt="MYSQL" width="50" height="40"/> </a> -->
 </p>
 
 ---
