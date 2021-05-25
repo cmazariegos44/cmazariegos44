@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center"> -->
   ![banner](https://res.cloudinary.com/techhire/video/upload/v1621972108/Pink_and_Peach_Technology_LinkedIn_Banner_dpkncw.mp4)
 <!--   <img src="welcome-banner.png" alt="Welcome, friend!" /> -->
-</p>
-
+<!-- </p>
+ -->
 <h1 align="center">Hello</h1>
 
 <p align="center">
