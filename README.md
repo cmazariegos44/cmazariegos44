@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="welcome-banner.png" alt="Welcome, friend!" />
+  ![banner](https://res.cloudinary.com/techhire/video/upload/v1621972108/Pink_and_Peach_Technology_LinkedIn_Banner_dpkncw.mp4)
+<!--   <img src="welcome-banner.png" alt="Welcome, friend!" /> -->
 </p>
 
 <h1 align="center">Hello</h1>
@@ -7,7 +8,7 @@
 <p align="center">
   👩🏻‍💻 Software Engineer<br>
   💬 Passionate about App Development and Technology<br>
-  🌀 Currently working on personal app project and learning about all things React
+  🌀 Currently working on personal app and learning about all things React
 </p>
 
 ---
