@@ -1,5 +1,5 @@
 <!-- <p align="center"> -->
-  ![banner](https://res.cloudinary.com/techhire/video/upload/v1621972108/Pink_and_Peach_Technology_LinkedIn_Banner_dpkncw.mp4)
+  ![banner](https://res.cloudinary.com/techhire/image/upload/v1621972358/Pink_and_Peach_Technology_LinkedIn_Banner_vep4jo.gif)
 <!--   <img src="welcome-banner.png" alt="Welcome, friend!" /> -->
 <!-- </p>
  -->
