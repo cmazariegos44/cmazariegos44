@@ -36,14 +36,16 @@
 </p>
 
 </div>
-<div align="center">
+
+
+<!-- <div align="center">
  <img align="center" width=330px src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&show_icons=true&layout=compact&theme=nightowl" />
   
    <img align="center" width=330px src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&show_icons=true&hide_title=true&hide_border=true&theme=nightowl" />
   <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44" />
 
 </div>
-
+ -->
 
 
 -----
