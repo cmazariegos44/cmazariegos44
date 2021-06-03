@@ -30,9 +30,9 @@
   <a href="https://github.com/cmazariegos44/github-readme-stats" title="Go to Source">
     <img width=330px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&layout=compact&theme=nightowl">
   </a>
-<!--   <a href="https://github.com/cmazariegos44/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/cmazariegos44/github-readme-stats" title="Go to Source">
     <img width=330px align="center" src="https://github-readme-stats.vercel.app/api?username=cmazariegos44">
-  </a> -->
+  </a>
 </p>
 
 </div>
