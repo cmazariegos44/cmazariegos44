@@ -17,7 +17,7 @@
 
 
 <p align='center'>
-✿ I’m currently working on a skintone detection app utilizing AI called SkinCode()
+✿ I’m currently working on a skintone detection app called SkinCode() that is utilizing AI
 <br>
 ✿  I’m currently learning react native & Java
 <br>
