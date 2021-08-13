@@ -1,14 +1,5 @@
 <!-- <p align="center"> -->
   ![banner](https://res.cloudinary.com/techhire/image/upload/v1621972435/Pink_and_Peach_Technology_LinkedIn_Banner-2_not36p.gif)
-<!--   <img src="welcome-banner.png" alt="Welcome, friend!" /> -->
-<!-- </p>
- -->
-<p align="center">
-  <img src="welcome-banner.png" alt="Welcome, friend!" />
-</p>
-
-<h3 align='center'>
-</h3>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/claudia-mazariegos/">
