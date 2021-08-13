@@ -17,9 +17,9 @@
 
 
 <p align='center'>
-✿ I’m currently working on a skintone detection app called SkinCode() that is utilizing AI
+✿ Currently working on a skintone detection app called SkinCode() that is utilizing AI
 <br>
-✿  I’m currently learning react native & Java
+✿  Currently learning react native & Java
 <br>
   ✿  How to reach me: <a href = "mailto: claudias.mazariegos@gmail.com">claudias.mazariegos@gmail.com</a>
 </p>
