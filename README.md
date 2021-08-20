@@ -2,6 +2,7 @@
   ![banner](https://res.cloudinary.com/techhire/image/upload/v1621972435/Pink_and_Peach_Technology_LinkedIn_Banner-2_not36p.gif)
 
 <p align='center'>
+  
 <a href="https://www.linkedin.com/in/claudia-mazariegos/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=cyan" />
   </a>&nbsp;&nbsp;
@@ -13,6 +14,15 @@
  <a href="https://instagram.com/claudiamaza44">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=cyan" padding='none'/>        
   </a>&nbsp;&nbsp;
+  
+   <a href="https://instagram.com/claudiamaza44">
+    <img src="https://img.shields.io/badge/-Portfolio-blue?&style=for-the-badge&logo=none&logoColor=cyan" padding='none'/>        
+  </a>&nbsp;&nbsp;
+  
+<!--   https://img.shields.io/badge/-Portfolio-blue
+   -->
+  
+  
  </p> 
 
 
