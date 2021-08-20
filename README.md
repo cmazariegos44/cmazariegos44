@@ -16,7 +16,7 @@
   </a>&nbsp;&nbsp;
   
    <a href="https://claudiatech.com/">
-    <img src="https://img.shields.io/badge/-Portfolio-blue?&style=for-the-badge&logo=none&logoColor=green" padding='none'/>        
+    <img src="https://img.shields.io/badge/-Portfolio-green?&style=for-the-badge&logo=none&logoColor=green" padding='none'/>        
   </a>&nbsp;&nbsp;
   
   
