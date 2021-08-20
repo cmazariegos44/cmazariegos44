@@ -15,12 +15,10 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=cyan" padding='none'/>        
   </a>&nbsp;&nbsp;
   
-   <a href="https://instagram.com/claudiamaza44">
-    <img src="https://img.shields.io/badge/-Portfolio-blue?&style=for-the-badge&logo=none&logoColor=cyan" padding='none'/>        
+   <a href="https://claudiatech.com/">
+    <img src="https://img.shields.io/badge/-Portfolio-blue?&style=for-the-badge&logo=none&logoColor=green" padding='none'/>        
   </a>&nbsp;&nbsp;
   
-<!--   https://img.shields.io/badge/-Portfolio-blue
-   -->
   
   
  </p> 
