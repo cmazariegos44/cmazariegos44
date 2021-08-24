@@ -34,7 +34,7 @@
 
  <p float="left" align="center">
 <a href="https://github.com/cmazariegos44/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&theme=pink&count_private=true&show_icons=true&hide=stars,issues" with="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&theme=solarized-ligh&count_private=true&show_icons=true&hide=stars,issues" with="40%" />
  </a>&nbsp;&nbsp;
   </p>
 
@@ -53,13 +53,13 @@
 
 <p align="center">
  <a href="https://github.com/cmazariegos44/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&theme=pink&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&theme=solarized-ligh&layout=compact" />
  </a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
 <a href="https://github.com/cmazariegos44/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmazariegos44&theme=pink" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmazariegos44&theme=solarized-ligh" />
  </a>&nbsp;&nbsp;
 </p>
 
