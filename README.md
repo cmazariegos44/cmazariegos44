@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=cyan" padding='none'/>        
   </a>&nbsp;&nbsp;
   
-   <a href="https://claudiatech.com/" target="_blank" rel="noopener noreferrer">
+<!--    <a href="https://claudiatech.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Portfolio-green?&style=for-the-badge&logo=none&logoColor=green" padding='none'/>        
   </a>&nbsp;&nbsp;
-  
+   -->
   
   
  </p> 
@@ -27,8 +27,8 @@
 <p align='center'>
 ✿ Currently working on a skintone detection app called SkinCode() that is utilizing AI
 <br>
-✿  Currently learning react native & Java
-<br>
+<!-- ✿  Currently learning react native & Java -->
+<!-- <br> -->
   ✿  How to reach me: <a href = "mailto: claudias.mazariegos@gmail.com">claudias.mazariegos@gmail.com</a>
 </p>
 
