@@ -38,7 +38,7 @@
  </a>&nbsp;&nbsp;
   </p> -->
 
-<h3 align='center'>{ TECH STACK }</h3> 
+<!--<h3 align='center'>{ TECH STACK }</h3> 
 <p align="center"> 
 * Languages: Javascript, HTML, CSS
 </br>
@@ -49,7 +49,7 @@
 * Testing: Jest, Supertest, React Testing Library
 </br>
 * Tools: Github, VSCode, Postman, Netlify, Heroku, GitLab
-</p>
+</p>-->
 
 <!--<p align="center">
  <a href="https://github.com/cmazariegos44/github-readme-stats">
@@ -57,11 +57,11 @@
  </a>&nbsp;&nbsp;
 </p>-->
 
- <p align="center">
+<!-- <p align="center">
 <a href="https://github.com/cmazariegos44/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmazariegos44&theme=solarized-light" />
  </a>&nbsp;&nbsp;
-</p>
+</p>-->
 
 
 
