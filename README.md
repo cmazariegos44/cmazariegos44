@@ -51,17 +51,17 @@
 * Tools: Github, VSCode, Postman, Netlify, Heroku, GitLab
 </p>
 
-<p align="center">
+<!--<p align="center">
  <a href="https://github.com/cmazariegos44/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&theme=solarized-light&layout=compact" />
  </a>&nbsp;&nbsp;
-</p>
+</p>-->
 
-<!-- <p align="center">
+ <p align="center">
 <a href="https://github.com/cmazariegos44/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmazariegos44&theme=solarized-light" />
  </a>&nbsp;&nbsp;
-</p> -->
+</p>
 
 
 
