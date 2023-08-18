@@ -32,11 +32,11 @@
   ✿  How to reach me: <a href = "mailto: claudias.mazariegos@gmail.com">claudias.mazariegos@gmail.com</a>
 </p>
 
- <p float="left" align="center">
+ <!-- <p float="left" align="center">
 <a href="https://github.com/cmazariegos44/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=cmazariegos44&theme=solarized-light&count_private=true&show_icons=true&hide=stars,issues" with="40%" />
  </a>&nbsp;&nbsp;
-  </p> 
+  </p> -->
 
 <h3 align='center'>{ TECH STACK }</h3> 
 <p align="center"> 
@@ -51,11 +51,11 @@
 * Tools: Github, VSCode, Postman, Netlify, Heroku, GitLab
 </p>
 
-<!--<p align="center">
+<p align="center">
  <a href="https://github.com/cmazariegos44/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmazariegos44&theme=solarized-light&layout=compact" />
  </a>&nbsp;&nbsp;
-</p>-->
+</p>
 
 <!-- <p align="center">
 <a href="https://github.com/cmazariegos44/github-readme-streak-stats">
